@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "stknx")(type "KiCad")(uri "${KIPRJMOD}/stknx.kicad_sym")(options "")(descr ""))
+  (lib (name "onsemi")(type "Legacy")(uri "${KIPRJMOD}/MicroBCU_Symbol.lib")(options "")(descr ""))
+)
