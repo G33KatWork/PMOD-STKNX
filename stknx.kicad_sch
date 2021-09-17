@@ -2473,7 +2473,7 @@
     (uuid 6dce513d-8286-4f57-8183-d6a404537720)
     (property "Reference" "L1" (id 0) (at 208.28 83.2824 90))
     (property "Value" "33uH" (id 1) (at 208.28 86.0575 90))
-    (property "Footprint" "" (id 2) (at 208.28 87.63 0)
+    (property "Footprint" "stknx:L_WE_LQS_4012" (id 2) (at 208.28 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 208.28 87.63 0)
@@ -4492,7 +4492,7 @@
       (reference "JP6") (unit 1) (value "VCC") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
     (path "/6dce513d-8286-4f57-8183-d6a404537720"
-      (reference "L1") (unit 1) (value "33uH") (footprint "")
+      (reference "L1") (unit 1) (value "33uH") (footprint "stknx:L_WE_LQS_4012")
     )
     (path "/3ef4990c-8bb6-42a8-8733-7a193c85edf0"
       (reference "R1") (unit 1) (value "0") (footprint "Resistor_SMD:R_0402_1005Metric")
