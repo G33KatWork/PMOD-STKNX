@@ -3297,7 +3297,7 @@
     (property "Value" "LL4148-GS18" (id 1) (at 44.3231 141.5666 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (id 2) (at 59.69 139.7 90)
+    (property "Footprint" "Diode_SMD:D_MiniMELF" (id 2) (at 59.69 139.7 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 59.69 139.7 90)
@@ -3331,7 +3331,7 @@
     (property "Value" "LL4148-GS18" (id 1) (at 95.8466 89.6619 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (id 2) (at 93.98 87.63 90)
+    (property "Footprint" "Diode_SMD:D_MiniMELF" (id 2) (at 93.98 87.63 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 93.98 87.63 90)
@@ -3365,7 +3365,7 @@
     (property "Value" "LL4148-GS18" (id 1) (at 95.7581 120.6116 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (id 2) (at 93.98 119.38 90)
+    (property "Footprint" "Diode_SMD:D_MiniMELF" (id 2) (at 93.98 119.38 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 93.98 119.38 90)
@@ -4447,13 +4447,13 @@
       (reference "D1") (unit 1) (value "SMAJ40CA") (footprint "Diode_SMD:D_SMA")
     )
     (path "/6775a3fe-5193-4210-b8fe-e0cb420e79de"
-      (reference "D2") (unit 1) (value "LL4148-GS18") (footprint "Diode_SMD:D_SOD-123F")
+      (reference "D2") (unit 1) (value "LL4148-GS18") (footprint "Diode_SMD:D_MiniMELF")
     )
     (path "/ea5ffd93-3c11-49cc-9806-57cd2746ac8d"
-      (reference "D3") (unit 1) (value "LL4148-GS18") (footprint "Diode_SMD:D_SOD-123F")
+      (reference "D3") (unit 1) (value "LL4148-GS18") (footprint "Diode_SMD:D_MiniMELF")
     )
     (path "/16a104e3-d9cd-4d22-9aec-c81bb2e92328"
-      (reference "D4") (unit 1) (value "LL4148-GS18") (footprint "Diode_SMD:D_SOD-123F")
+      (reference "D4") (unit 1) (value "LL4148-GS18") (footprint "Diode_SMD:D_MiniMELF")
     )
     (path "/6d38309b-b2e2-4739-a784-65eb9ca55906"
       (reference "D5") (unit 1) (value "BAT54 DNP") (footprint "Diode_SMD:D_SOD-323F")
