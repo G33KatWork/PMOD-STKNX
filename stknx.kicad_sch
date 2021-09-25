@@ -3289,7 +3289,7 @@
     (property "Value" "HV" (id 1) (at 66.4211 36.1566 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" (id 2) (at 64.77 34.29 0)
+    (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (id 2) (at 64.77 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 64.77 34.29 0)
@@ -4090,7 +4090,7 @@
     (uuid 2cc4e73c-1d5c-40a8-be9c-ce1f97aa5872)
     (property "Reference" "JP1" (id 0) (at 31.75 23.0844 0))
     (property "Value" "DCDC" (id 1) (at 31.75 25.8595 0))
-    (property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels" (id 2) (at 31.75 27.94 0)
+    (property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels" (id 2) (at 31.75 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 31.75 27.94 0)
@@ -4106,7 +4106,7 @@
     (uuid 7c3e8968-9865-4e33-bc3f-c20d3fa94916)
     (property "Reference" "JP5" (id 0) (at 128.27 23.0844 0))
     (property "Value" "LINEAR" (id 1) (at 128.27 25.8595 0))
-    (property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels" (id 2) (at 128.27 27.94 0)
+    (property "Footprint" "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels" (id 2) (at 128.27 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 128.27 27.94 0)
@@ -4364,10 +4364,10 @@
       (reference "J5") (unit 1) (value "VDCDC") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/2cc4e73c-1d5c-40a8-be9c-ce1f97aa5872"
-      (reference "JP1") (unit 1) (value "DCDC") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels")
+      (reference "JP1") (unit 1) (value "DCDC") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels")
     )
     (path "/a0ab6e3a-d6d5-415a-b978-c3f481a2a4b4"
-      (reference "JP2") (unit 1) (value "HV") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+      (reference "JP2") (unit 1) (value "HV") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
     (path "/54baac83-2742-46a7-b7db-90dd758a152f"
       (reference "JP3") (unit 1) (value "DCDC") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
@@ -4376,7 +4376,7 @@
       (reference "JP4") (unit 1) (value "OFF") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
     (path "/7c3e8968-9865-4e33-bc3f-c20d3fa94916"
-      (reference "JP5") (unit 1) (value "LINEAR") (footprint "Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels")
+      (reference "JP5") (unit 1) (value "LINEAR") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels")
     )
     (path "/90f958e8-221f-44fa-8c81-f550e7e7e58f"
       (reference "JP6") (unit 1) (value "VCC") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
